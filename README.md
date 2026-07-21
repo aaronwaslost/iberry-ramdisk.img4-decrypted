@@ -8,6 +8,3 @@ also the tool uses code from hfz ( i found traces of it there)
 
 i got his domain name for the server of course which is 
 * iberry.space
-i also have the ibss, dtre and stuff from it which i won't be releasing to the public (*for now*)
-i'll include the ramdisk.img4, it's very unlikely that it will be helpful but who knows.
-also the tool uses code from hfz ( i found traces of it there)
